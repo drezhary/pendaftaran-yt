@@ -6,7 +6,7 @@ session_start();
 if(isset($_POST['btn_login'])) {
     // jika sudah ditekan
     $username = $_POST['username'];
-    $password = md5($_POST['password']);
+    $password = $_POST['password'];
 
     $sql_user = "SELECT * FROM users where username = '$username' and password = '$password'";
     $result_user = mysqli_query($koneksi, $sql_user);

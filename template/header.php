@@ -6,13 +6,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Aplikasi pendaftaran Siswa SMKN DARUL ULUM MUNCAR.">
+  <meta name="description" content="Aplikasi pendaftaran Siswa SMK CATUR GLOBAL.">
   <meta name="author" content="e-development.tech">
 
   <title>Aplikasi Pendaftaran Siswa</title>
 
   <!-- gambar title -->
-  <link rel="icon" type="image/png" href="../assets/img/logo.png">
+  <link rel="icon" type="image/png" href="../assets/img/logo catur global.png">
 
   <!-- Custom fonts for this template-->
   <link href="../assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

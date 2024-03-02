@@ -6,7 +6,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Aplikasi Pendaftaran Siswa SMKN Darul Ulum - 2019</span>
+            <span>Copyright &copy; Aplikasi Pendaftaran Siswa SMK CATUR GLOBAL - 2024</span>
           </div>
         </div>
       </footer>

@@ -6,13 +6,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Aplikasi pendaftaran Siswa SMKN DARUL ULUM MUNCAR.">
+  <meta name="description" content="Aplikasi pendaftaran Siswa SMK CATUR GLOBAL.">
   <meta name="author" content="e-development.tech">
 
   <title>Login Aplikasi Pendaftaran Siswa</title>
 
   <!-- gambar title -->
-  <link rel="icon" type="image/png" href="assets/img/logo.png">
+  <link rel="icon" type="image/png" href="assets/img/logo catur global.png">
 
   <!-- Custom fonts for this template-->
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -46,10 +46,10 @@
               <div class="col-md-12">
                 <div class="p-5">
                   <div class="text-center">
-                    <img src="assets/img/logo.png" alt="Logo sekolah" class="logo-login">
+                    <img src="assets/img/logo catur global.png" alt="Logo sekolah" class="logo-login">
 
                     <h1 class="h4 text-gray-900">Aplikasi Pendaftaran Siswa</h1>
-                    <h1 class="h4 text-gray-900 mb-4"><b>SMKN Darul Ulum Muncar</b></h1>
+                    <h1 class="h4 text-gray-900 mb-4"><b>SMK CATUR GLOBAL</b></h1>
 
                     <?php 
                     session_start();
