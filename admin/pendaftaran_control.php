@@ -21,7 +21,7 @@ if(isset($_GET['action']) && $_GET['action'] == "hapus") {
         $sql_hapus_nilai = mysqli_query($koneksi," DELETE FROM nilai where pendaftar_id = '$id_pendaftar'");
 
         // hapus foto pendaftar
-        unlink('../uploads/'. $data_pendaftar['foto']);
+        unlink('../uploads/'.$data_pendaftar['foto']);
         $sql_hapus_pendaftar = mysqli_query($koneksi," DELETE FROM pendaftar where id = '$id_pendaftar'");
 
         // hapus nilai

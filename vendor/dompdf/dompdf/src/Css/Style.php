@@ -3081,8 +3081,9 @@ class Style
     /**
      * @param $val
      */
+        
     function set_z_index($val)
-    {
+    { settype ($val, "int");
         if (round($val) != $val && $val !== "auto") {
             return;
         }

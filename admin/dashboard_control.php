@@ -23,5 +23,4 @@ $jml_lolos = mysqli_query($koneksi, "SELECT * FROM pendaftar, nilai WHERE pendaf
 if(!$jml_lolos) {
     die('Query Error : '. mysqli_error($koneksi));
 }
-
 ?>

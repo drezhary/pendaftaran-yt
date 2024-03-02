@@ -68,11 +68,11 @@
                     <div class="col-auto">
                       <i class="fas fa-spinner text-warning mb-3" style="font-size: 90px;"></i>
                     </div>
-                    <p class="card-text">Terima kasih telah melakukan pendaftaran di SMKN Darul Ulum Muncar. Pengumuman pada tanggal: </p>
+                    <p class="card-text">Terima kasih telah melakukan pendaftaran di SMK CATUR GLOBAL. Pengumuman pada tanggal: </p>
                     <span class="badge badge-danger" style="font-size: 20px;">5 Oktober 2019</span>
                   </div>
                   <div class="card-footer text-muted">
-                    <marquee style="margin-bottom: -5px;">SMK NEGERI DARUL ULUM - MUNCAR BANYUWANGI</marquee>
+                    <marquee style="margin-bottom: -5px;">SMK CATUR GLOBAL - KOTA BEKASI</marquee>
                   </div>
                 </div>
               </div>
@@ -91,11 +91,11 @@
                     <div class="col-auto">
                       <i class="far fa-check-circle text-success mb-3" style="font-size: 90px;"></i>
                     </div>
-                    <p class="card-text">Selamat anda lolos seleksi di SMKN Darul Ulum Muncar. Lakukan Daftar Ulang pada tanggal: </p>
+                    <p class="card-text">Selamat anda lolos seleksi di SMK CATUR GLOBAL. Lakukan Daftar Ulang pada tanggal: </p>
                     <span class="badge badge-danger" style="font-size: 20px;">12 Oktober 2019</span>
                   </div>
                   <div class="card-footer text-muted">
-                    <marquee style="margin-bottom: -5px;">SMK NEGERI DARUL ULUM - MUNCAR BANYUWANGI</marquee>
+                    <marquee style="margin-bottom: -5px;">SMK CATUR GLOBAL</marquee>
                   </div>
                 </div>
               </div>
@@ -118,7 +118,7 @@
                     <p class="card-text">Anda Belum lolos. Terima kasih telah mengikuti seleksi dengan baik. </p>
                   </div>
                   <div class="card-footer text-muted">
-                    <marquee style="margin-bottom: -5px;">SMK NEGERI DARUL ULUM - MUNCAR BANYUWANGI</marquee>
+                    <marquee style="margin-bottom: -5px;">SMK CATUR GLOBAL - KOTA BEKASI</marquee>
                   </div>
                 </div>
               </div>
